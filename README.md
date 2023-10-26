@@ -1,4 +1,4 @@
-# Project Name: StockStreamX
+# StockStreamX
 
 ## Introduction
 
